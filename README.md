@@ -1,4 +1,4 @@
-
+Testin only, WORK IN PROGRESS
 ### Step-by-Step Guide to Configure and Run the Script
 
 #### Step 1: Configure Dogecoin Core
