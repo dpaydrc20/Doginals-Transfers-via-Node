@@ -1,4 +1,4 @@
-# Doginals-Transfers-via-Node
+# Doginals-Transfers-via-Node WORKINPROGRESS1
 Work in progressssssss!
 
 To ensure your script can connect and interact with the Dogecoin Core application located at "E:\DogeCore\Dogecoin\dogecoin-qt.exe", you need to configure the Dogecoin Core node properly and use environment variables to securely store and access your RPC credentials.
