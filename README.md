@@ -1,4 +1,3 @@
-Certainly! Here's the Python script along with the steps to configure and run it, with sensitive details removed and instructions to securely store your credentials using environment variables.
 
 ### Step-by-Step Guide to Configure and Run the Script
 
